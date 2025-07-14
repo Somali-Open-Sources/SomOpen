@@ -2,7 +2,7 @@
 
 ### 1. **Fikraddu waxay ka iman kartaa xubin kasta**
 
-Xubin kasta oo ka mid ah mashruuca wuxuu keeni karaa fikrad cusub. Laakiin fikraddaas si toos ah looma oggolaanayo, dhammaanteen waan eegnaa si aan u fahamno faa’iidada ay u leedahay qof ahaan iyo guud ahaan bulshada Somali tech.
+Xubin kasta oo ka mid ah **SomOpen** wuxuu keeni karaa fikrad cusub. Laakiin fikraddaas si toos ah looma oggolaanayo, dhammaanteen waan eegnaa si aan u fahamno faa’iidada ay u leedahay qof ahaan iyo guud ahaan bulshada Somali tech.
 
 ### 2. **Haddii fikradda ay tahay mid faa’iido leh, waxaa loo qaybiyaa hawlo yaryar**
 
