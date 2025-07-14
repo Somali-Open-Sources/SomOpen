@@ -40,7 +40,7 @@ In la helo bulsho Soomaaliyeed oo horumarsan dhanka teknoolojiyadda, oo si furan
 
 ### **2. Xeerka Mashruuca / Project Rule**
 Shaqada mashruuca waa inay noqotaa mid furan **(public)** oo dhammaan xubnaha ay si sahlan u arki karaan horumarka iyo isbeddelada socda.
-**Admins** iyo **maintainers** waa masuul ka ah inay hubiyaan in macluumaadka mashruuca aanu ku xirnayn dad kooban **(private)**, isla markaana la wadaago si daahfuran oo hufan.
+**Admins** iyo **maintainers** waxay masuul ka yihiin inay hubiyaan in mashruuca aanu ku xirnayn dad kooban **(private)**, isla markaana la wadaago si daahfuran oo hufan.
 
 ---
 
