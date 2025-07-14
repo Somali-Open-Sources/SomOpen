@@ -1,7 +1,5 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 ![Open Source](https://img.shields.io/badge/Open-Source-blue.svg)
-
 ![For Somali](https://img.shields.io/badge/For-Somali_Developers-orange.svg)
 
 ---
